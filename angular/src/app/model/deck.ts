@@ -82,6 +82,28 @@ export const decks: Deck[] = [
       { value: 6, display: 'XL' },
       { value: 7, display: 'XXL' },
     ]
+  },
+  {
+    name: 'HALF_DAYS',
+    textValues: true,
+    values: [
+      { value: 1,  display: '0.5' },
+      { value: 2,  display: '1' },
+      { value: 3,  display: '1.5' },
+      { value: 4,  display: '2' },
+      { value: 5,  display: '2.5' },
+      { value: 6,  display: '3' },
+      { value: 7,  display: '3.5' },
+      { value: 8,  display: '4' },
+      { value: 9,  display: '4.5' },
+      { value: 10, display: '5' },
+      { value: 12, display: '6' },
+      { value: 14, display: '7' },
+      { value: 16, display: '8' },
+      { value: 18, display: '9' },
+      { value: 20, display: '10' },
+      { value: 0,  display: '☕' },
+    ]
   }
 ]
 
